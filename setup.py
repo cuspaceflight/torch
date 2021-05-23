@@ -9,6 +9,6 @@ setup(
     name='torch',
     version='0.1',
     packages=find_packages(),
-    install_requires=['numpy', 'matplotlib', 'scipy', 'ambiance', 'thermo', 'gas_dynamics'],
+    install_requires=['numpy', 'matplotlib', 'scipy', 'ambiance', 'thermo==0.1.40', 'gas_dynamics'],
     description='Python version of NASA aerodynamic heating program NQLDW019',
 )
