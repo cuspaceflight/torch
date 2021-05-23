@@ -1,0 +1,6 @@
+numpy
+matplotlib
+scipy
+ambiance
+thermo
+gas_dynamics
