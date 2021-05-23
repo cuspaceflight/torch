@@ -1,5 +1,3 @@
-# torch
-
 <p align="center">
 	<h1 align="center">TORCH</h1>
 	<h3 align="center">Cambridge University Spaceflight</h3>
