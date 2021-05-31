@@ -15,4 +15,5 @@ See the two Jupyter notebooks for examples of how to run simulations, and how th
 ## References
 
 Original document (long): https://ntrs.nasa.gov/citations/19730063810
+
 Shorter version: https://arc.aiaa.org/doi/pdf/10.2514/3.62081
